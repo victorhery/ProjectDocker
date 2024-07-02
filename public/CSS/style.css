@@ -1,0 +1,37 @@
+#site_content { 
+  width: 940px;
+  overflow: hidden;
+  margin: 0 auto 0 auto;
+  padding: 0 0 15px 0;  
+}  
+
+ul#images {
+  margin: 0 15px 10px 0;
+  padding: 0;
+  list-style: none;
+  position: relative;
+}
+
+ul#images li {
+  display: block;
+  overflow: hidden;
+  padding: 0;
+  float: left;
+  width: 135px;
+  height: 300px;
+}
+/* GRAPHE */
+#echel{
+  width: 25Spx;
+  height: 13px;
+}
+#overflowTest {     
+  color: white;
+  padding: 15px;
+  width: 99%;
+  height: 500px;
+  overflow: scroll;
+  border: 1px solid #ccc;
+}
+
+

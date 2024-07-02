@@ -1,0 +1,17 @@
+/* body {
+    background-image: url(image/uwp2337888.png);
+    text-align: center;
+} */
+
+#corps2 {
+    background: DodgerBlue;
+    padding: 40px;
+    width: 50%;
+    margin: auto;
+    /*margin-top: 80px;*/
+    height: 60%;
+    margin-left: 25%;
+    transition: 2s;
+    border-radius: 10px;
+}
+
